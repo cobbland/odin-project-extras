@@ -23,3 +23,21 @@ function min(a,b) {
 function pow(x,n) {
     return x ** n;
 }
+
+// New assignment.
+
+function add7(number) {
+  return number * 7;
+}
+
+function multiply(a,b) {
+  return a * b;
+}
+
+function capitalize(userString) {
+  return `${userString.at(0).toUpperCase()}${userString.slice(1).toLowerCase()}`;
+}
+
+function lastLetter(userString) {
+  return userString.at(-1);
+}
