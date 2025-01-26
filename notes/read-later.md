@@ -46,6 +46,9 @@ Articles and resources to read and reference in the future. Someday. Maybe.
 
 ## JavaScript
 
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors
+
 ## Regular Expressions
+
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions
 - https://regexr.com/
