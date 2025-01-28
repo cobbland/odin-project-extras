@@ -9,3 +9,7 @@ Books on programming.
     - [Interactive Illustrations from **](https://codehiddenlanguage.com/)
 - [A Philosophy of Software Design](https://www.amazon.com/Philosophy-Software-Design-2nd-ebook/dp/B09B8LFKQL/146-5940791-8126126)
 - [Code Complete](https://www.amazon.com/exec/obidos/ASIN/0735619670/)
+
+## Programming Games
+
+- [Game Boy Coding Adventure](https://mdagois.gumroad.com/l/CODQn) (also through [no starch press](https://nostarch.com/game-boy-coding-adventure))
