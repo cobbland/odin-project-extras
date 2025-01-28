@@ -15,3 +15,15 @@ As my first week of The Odin Project nears its end, I'm feeling good. Looking fo
 **Lows:** The speed at which I work through the material is discouragingly slow at times. But I know I must brace myself, because it's only going to get slower as I go deeper.
 
 **Shout-outs:** No particular shout-outs this week, as I haven't interacted with the community much yet. But I'm grateful that it's here.
+
+## Check In #2 - 2025.01.28
+
+I can't believe I've only been working on The Odin Project for two weeks. Already feels like a lifetime, haha.
+
+**Completion Status:** Foundations 87%
+
+**Highs:** Interacting with and changing what's displayed on a webpage using JavaScript feels like wizardry and I'm here for it.
+
+**Lows:** A few of those JavaScript exercises were tricky for me. (04_removeFromArray had me banging my head for an hour.) And while I eventually solved them, some of my methods were much more complicated than the clean code in the provided solution.
+
+**Shout-outs:** No particular shout-outs this week, as I haven't interacted with the community much yet. But I'm grateful that it's here.
