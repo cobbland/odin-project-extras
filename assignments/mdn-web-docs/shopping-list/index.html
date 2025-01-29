@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shopping list example</title>
+    <style>
+      li {
+        margin-bottom: 10px;
+      }
+
+      li button {
+        font-size: 12px;
+        margin-left: 20px;
+        color: #666;
+      }
+    </style>
+  </head>
+  <body>
+
+    <h1>My shopping list</h1>
+
+    <div>
+      <label for="item">Enter a new item:</label>
+      <input type="text" name="item" id="item">
+      <button>Add item</button>
+    </div>
+
+    <ul>
+
+    </ul>
+
+    <script>
+
+      let listItems = document.querySelector("ul");
+      let listInput = document.querySelector('#item');
+      let listButton = document.querySelector("button");
+
+      function addFromInput() {
+        let currentInput = listInput.value;
+        listInput.value = "";
+        let listItem = document.createElement("li");
+        let listSpan = document.createElement("span");
+        let deleteButton = document.createElement("button");
+        listItem.appendChild(listSpan);
+        listItem.appendChild(deleteButton);
+        listSpan.textContent = currentInput;
+        deleteButton.textContent = "Delete";
+        listItems.appendChild(listItem);
+        listInput.focus();
+        deleteButton.addEventListener("click", () => {
+        deleteButton.parentElement.remove();
+        });
+      };
+
+      listButton.addEventListener("click", addFromInput);
+      listInput.addEventListener("keyup", () => {
+        if (event.key === "Enter") {
+          addFromInput();
+        }
+      });
+
+    </script>
+  </body>
+</html>
