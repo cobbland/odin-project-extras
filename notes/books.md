@@ -13,3 +13,8 @@ Books on programming.
 ## Programming Games
 
 - [Game Boy Coding Adventure](https://mdagois.gumroad.com/l/CODQn) (also through [no starch press](https://nostarch.com/game-boy-coding-adventure))
+
+## Digital Books
+
+- [Web Browser Engineering](https://browser.engineering/)
+- [Eloquent JavaScript](https://eloquentjavascript.net/index.html)

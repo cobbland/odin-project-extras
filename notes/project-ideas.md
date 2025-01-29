@@ -13,3 +13,7 @@ A personal website creation platform that uses activitypub and/or indieweb and i
 ## IndieWeb/ActivityPub App
 
 A webapp for sharing, commenting on, following, and posting. Also any RSS.
+
+## Simple Dice Roller and Character Notes Keeper
+
+Everything a player would need to play D&D in a super clean and simple format. Character info could be stored locally (in a json or something).

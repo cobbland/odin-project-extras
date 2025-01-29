@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Show Password Test</title>
+</head>
+<body>
+
+    <p>Enter Your Password:</p>
+    <input type="password" id="pwd"> <button id="showPwd">Show Password</button>
+
+    <script>
+        const pwd = document.querySelector("#pwd");
+        const showPwd = document.querySelector("#showPwd");
+        showPwd.addEventListener("click", () => {
+            if (pwd.getAttribute("type") === "password") {
+                pwd.setAttribute("type", "text");
+                showPwd.textContent = "Hide Password";
+            } else {
+                pwd.setAttribute("type", "password");
+                showPwd.textContent = "Show Password";
+            } 
+        });
+    </script>
+
+</body>
+</html>

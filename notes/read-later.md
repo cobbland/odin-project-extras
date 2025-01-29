@@ -48,6 +48,7 @@ Articles and resources to read and reference in the future. Someday. Maybe.
 
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors
 - https://github.com/ryanmcdermott/clean-code-javascript
+- https://plainjs.com/
 
 ## Regular Expressions
 
