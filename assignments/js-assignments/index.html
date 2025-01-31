@@ -3,93 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Objects in JavaScript</title>
+    <script src="./js/array-methods.js" defer></script>
 </head>
 <body>
 
-    <ul id="menu">
-        <li><a id="home">home</a></li>
-        <li><a id="dashboard">Dashboard</a></li>
-        <li><a id="report">report</a></li>
-    </ul>
 
-    <input type="text" id="message">
-
-    <button class="btn">Test</button>
-    <br><br>
-    <div class="note">JS Custom Event Demo</div>
-
-    <script>
-        let textBox = document.getElementById('message');
-        textBox.addEventListener('keydown', (event) => {
-            console.log(`key=${event.key},code=${event.code}`);
-
-        });
-
-        let menu = document.querySelector('#menu');
-
-        menu.addEventListener('click', (event) => {
-            let target = event.target;
-
-            switch(target.id) {
-                case 'home':
-                    console.log('Home menu item was clicked');
-                    break;
-                case 'dashboard':
-                    console.log('Dashboard menu item was clicked');
-                    break;
-                case 'report':
-                    console.log('Report menu item was clicked');
-                    break;
-            }
-        });
-
-        let btn = document.querySelector('.btn');
-
-        btn.addEventListener('click', function () {
-                alert('Mouse Clicked');
-        });
-
-        let clickEvent = new MouseEvent("click", {
-            bubbles: true,
-            cancelable: true,
-            clientX: 150,
-            clientY: 150
-        });
-        // btn.dispatchEvent(clickEvent);
-
-        function highlight(elem) {
-            const bgColor = 'yellow';
-            elem.style.backgroundColor = bgColor;
-
-            // create the event
-            let event = new CustomEvent('highlight', {
-                detail: {
-                    backgroundColor: bgColor
-                }
-            });
-            // dispatch the event
-            elem.dispatchEvent(event);
-        }
-
-        // Select the div element
-        let div = document.querySelector('.note');
-
-        // Add border style
-        function addBorder(elem) {
-            elem.style.border = "solid 1px red";
-        }
-
-        // Listen to the highlight event
-        div.addEventListener('highlight', function (e) {
-            addBorder(this);
-
-            // examine the background
-            console.log(e.detail);
-        });
-
-        highlight(div);
-
-    </script>
+    
 </body>
 </html>
