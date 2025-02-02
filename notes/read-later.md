@@ -33,6 +33,7 @@ Articles and resources to read and reference in the future. Someday. Maybe.
 - https://content.red-badger.com/resources/what-is-git-and-github
 - https://www.atlassian.com/git/tutorials/what-is-version-control
 - https://www.atlassian.com/git/tutorials/what-is-git
+- https://learngitbranching.js.org/
 
 ## Chrome DevTools
 
