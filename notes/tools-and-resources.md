@@ -19,3 +19,8 @@
 ## UI
 
 - [UIverse](https://uiverse.io/)
+
+## Cheatsheets
+
+- https://htmlcheatsheet.com/ (also CSS and JS)
+- https://docs.emmet.io/cheat-sheet/

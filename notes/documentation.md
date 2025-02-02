@@ -7,3 +7,4 @@ Documentation concerning the various tools and applications used in the course.
 - [GitHub](https://docs.github.com/en)
 - [Visual Studio Code](https://code.visualstudio.com/docs)
 - [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
+- [Emmet](https://docs.emmet.io/)
