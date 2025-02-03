@@ -19,6 +19,9 @@
 ## UI
 
 - [UIverse](https://uiverse.io/)
+- [Google Font's SCG Icons](https://fonts.google.com/icons)
+- [Feather SVG Icons](https://feathericons.com/)
+- [Yann Armelin’s SVG path editor](https://yqnn.github.io/svg-path-editor/)
 
 ## Cheatsheets
 
