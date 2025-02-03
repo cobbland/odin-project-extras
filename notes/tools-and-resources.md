@@ -27,3 +27,9 @@
 
 - https://htmlcheatsheet.com/ (also CSS and JS)
 - https://docs.emmet.io/cheat-sheet/
+
+## Templates and Boilerplates
+
+- https://meyerweb.com/eric/tools/css/reset/index.html
+- https://html5boilerplate.com/
+- https://necolas.github.io/normalize.css/

@@ -23,6 +23,9 @@ Articles and resources to read and reference in the future. Someday. Maybe.
 - https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/
 - https://learnlayout.com/no-layout
 - https://internetingishard.netlify.app/html-and-css/flexbox/index.html
+- CSS Resets
+    - https://www.joshwcomeau.com/css/custom-css-reset/
+    - https://meyerweb.com/eric/tools/css/reset/
 
 ## Images
 
@@ -55,3 +58,13 @@ Articles and resources to read and reference in the future. Someday. Maybe.
 
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions
 - https://regexr.com/
+
+## Startup
+
+- https://theleanstartup.com/book
+- https://leanproductplaybook.com/
+- https://www.kalzumeus.com/2009/12/31/engineering-your-way-to-marketing-success/
+
+## Design
+
+- https://dfrlbook.com/
