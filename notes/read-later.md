@@ -23,6 +23,7 @@ Articles and resources to read and reference in the future. Someday. Maybe.
 - https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/
 - https://learnlayout.com/no-layout
 - https://internetingishard.netlify.app/html-and-css/flexbox/index.html
+- https://www.pencilandpaper.io/articles/ux-pattern-analysis-enterprise-data-tables
 - CSS Resets
     - https://www.joshwcomeau.com/css/custom-css-reset/
     - https://meyerweb.com/eric/tools/css/reset/

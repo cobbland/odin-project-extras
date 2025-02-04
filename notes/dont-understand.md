@@ -6,7 +6,7 @@ A list of things shown in lesson readings that I don't quite grasp yet.
 - [x] Arrow functions in Javascript (which I think are related to the above)
     - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions#arrow_functions
     - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
-- [ ] Array methods (specifically map, sort, reduce, etc)
+- [ ] Array methods (specifically map, filter, reduce, etc)
     - https://javascript.info/array-methods
     - https://www.freecodecamp.org/news/how-to-use-javascript-array-reduce-method/ (look for others like this)
 - [ ] Flexbox (still need more practice)

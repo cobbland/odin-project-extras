@@ -27,3 +27,15 @@ I can't believe I've only been working on The Odin Project for two weeks. Alread
 **Lows:** A few of those JavaScript exercises were tricky for me. (04_removeFromArray had me banging my head for an hour.) And while I eventually solved them, some of my methods were much more complicated than the clean code in the provided solution.
 
 **Shout-outs:** No particular shout-outs this week, as I haven't interacted with the community much yet. But I'm grateful that it's here.
+
+## Check in #3 - 2025.02.04
+
+As the end of my first three weeks of The Odin Project quickly approaches, the enormity of the task ahead sets it.
+
+**Completion Status:** Intermediate HTML and CSS 21%
+
+**Highs:** Finishing Foundations felt so good. I've already learned so much.
+
+**Lows:** Some of the array methods introduced at the end of JavaScript Basics tripped me up. And—somehow—I'm still occasionally tripped up by the cascade and flexbox. But I'll get there.
+
+**Shout-outs:** Shout-out to nicO and xajx for awarding me with my first points, haha.

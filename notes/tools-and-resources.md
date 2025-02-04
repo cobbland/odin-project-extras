@@ -15,6 +15,8 @@
 - https://developer.mozilla.org/en-US/
 - https://www.w3schools.com/
 - https://javascript.info/
+- https://app.codecrafters.io/
+- https://browserdefaultstyles.com/
 
 ## UI
 
@@ -22,6 +24,7 @@
 - [Google Font's SCG Icons](https://fonts.google.com/icons)
 - [Feather SVG Icons](https://feathericons.com/)
 - [Yann Armelin’s SVG path editor](https://yqnn.github.io/svg-path-editor/)
+- [Modern Font Stacks](https://modernfontstacks.com/)
 
 ## Cheatsheets
 
@@ -33,3 +36,11 @@
 - https://meyerweb.com/eric/tools/css/reset/index.html
 - https://html5boilerplate.com/
 - https://necolas.github.io/normalize.css/
+- https://github.com/sindresorhus/modern-normalize
+- https://elad2412.github.io/the-new-css-reset/
+
+## Typefaces
+
+- https://fonts.bunny.net/ (drop-in replacement for Google Fonts that is GDPR compliant)
+- https://fontlibrary.org/en
+- https://www.fontsquirrel.com/ (used to turn typefaces into webfonts)
