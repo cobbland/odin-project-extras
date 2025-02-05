@@ -17,12 +17,17 @@
 - https://javascript.info/
 - https://app.codecrafters.io/
 - https://browserdefaultstyles.com/
+- https://web.dev/
+- https://httparchive.org/
+- https://almanac.httparchive.org/en/2024/
+- https://webtypography.net/
 
 ## UI
 
 - [UIverse](https://uiverse.io/)
 - [Google Font's SCG Icons](https://fonts.google.com/icons)
 - [Feather SVG Icons](https://feathericons.com/)
+- [Font Awesome](https://fontawesome.com/)
 - [Yann Armelin’s SVG path editor](https://yqnn.github.io/svg-path-editor/)
 - [Modern Font Stacks](https://modernfontstacks.com/)
 

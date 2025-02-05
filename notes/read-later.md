@@ -27,6 +27,7 @@ Articles and resources to read and reference in the future. Someday. Maybe.
 - CSS Resets
     - https://www.joshwcomeau.com/css/custom-css-reset/
     - https://meyerweb.com/eric/tools/css/reset/
+- https://www.smashingmagazine.com/2020/07/css-techniques-legibility/
 
 ## Images
 
