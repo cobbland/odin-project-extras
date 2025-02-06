@@ -53,3 +53,5 @@
 ## Testing
 
 - [Can I Use _?](https://caniuse.com/)
+- [httpbin](https://httpbin.org/)
+- [Accessibility testing checklist](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Accessibility/Tooling#accessibility_testing_checklist)
