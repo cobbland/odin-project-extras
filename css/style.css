@@ -163,7 +163,6 @@ input[type="radio"] {
 textarea {
     vertical-align: top;
     height: 5em;
-    resize: none;
 }
 
 p.button {
