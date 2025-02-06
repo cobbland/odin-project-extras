@@ -70,3 +70,8 @@ Articles and resources to read and reference in the future. Someday. Maybe.
 ## Design
 
 - https://dfrlbook.com/
+
+## The Internet & the Web
+
+- https://github.com/vasanthk/how-web-works/blob/master/README.md
+- https://taskade.medium.com/history-of-web-browsers-the-evolution-of-digital-productivity-%EF%B8%8F-28fa2d4130fb

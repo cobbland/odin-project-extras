@@ -49,3 +49,7 @@
 - https://fonts.bunny.net/ (drop-in replacement for Google Fonts that is GDPR compliant)
 - https://fontlibrary.org/en
 - https://www.fontsquirrel.com/ (used to turn typefaces into webfonts)
+
+## Testing
+
+- [Can I Use _?](https://caniuse.com/)

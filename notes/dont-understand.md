@@ -19,3 +19,4 @@ A list of things shown in lesson readings that I don't quite grasp yet.
     - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax
     - https://www.w3schools.com/react/react_es6_spread.asp
 - [ ] The Cascade (somehow still having trouble with this)
+    - https://css-tricks.com/specifics-on-css-specificity/
