@@ -21,6 +21,7 @@
 - https://httparchive.org/
 - https://almanac.httparchive.org/en/2024/
 - https://webtypography.net/
+- https://www.smashingmagazine.com/
 
 ## UI
 
@@ -55,3 +56,7 @@
 - [Can I Use _?](https://caniuse.com/)
 - [httpbin](https://httpbin.org/)
 - [Accessibility testing checklist](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Accessibility/Tooling#accessibility_testing_checklist)
+
+## Version Management
+
+- [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)

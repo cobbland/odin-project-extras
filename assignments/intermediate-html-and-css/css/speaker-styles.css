@@ -147,6 +147,10 @@ body {
     background-color: #407FC7;
 }
 
+.form-row input:focus {
+    outline: 0;
+}
+
 @media only screen and (min-width: 700px) {
     .speaker-form-header,
     .speaker-form {

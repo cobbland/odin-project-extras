@@ -64,7 +64,8 @@ Projected dates of completion (and time in days to complete):
 - **2025-02-04:** More Text Styles, More CSS Properties
 - **2025-02-05:** Advanced Selectors, Positioning, CSS Functions, Custom Properties, Browser Compatibility, Frameworks and Preprocessors
 - **2025-02-06:** Form Basics
-- **2025-02-07:** Form Validation
+- **2025-02-07:** Form Validation, Project: Sign-up Form
+- **2025-02-08:** Introduction to Grid, Creating a Grid, Positioning Grid Elements
 - ...
 - **2025-03-05:** *Intermediate HTML and CSS projected completion date*
 - ...
