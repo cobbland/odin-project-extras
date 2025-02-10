@@ -12,7 +12,7 @@ A personal website creation platform that uses activitypub and/or indieweb and i
 
 ## IndieWeb/ActivityPub App
 
-A webapp for sharing, commenting on, following, and posting. Also any RSS.
+A webapp for sharing, commenting on, following, and posting. Also any RSS. (Sort of similar to [Tapestry](https://usetapestry.com/))
 
 ## Simple Dice Roller and Character Notes Keeper
 
