@@ -22,6 +22,7 @@
 - https://almanac.httparchive.org/en/2024/
 - https://webtypography.net/
 - https://www.smashingmagazine.com/
+- https://learnxinyminutes.com/
 
 ## UI
 

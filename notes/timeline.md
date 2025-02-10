@@ -67,9 +67,10 @@ Projected dates of completion (and time in days to complete):
 - **2025-02-07:** Form Validation, Project: Sign-up Form
 - **2025-02-08:** Introduction to Grid, Creating a Grid, Positioning Grid Elements
 - **2025-02-09:** Advanced Grid Properties, Using Flexbox and Grid
-- **2025-02-10:** Project: Admin Dashboard; *Intermediate HTML and CSS completed*, *JavaScript course begun*; How This Course Will Work
+- **2025-02-10:** Project: Admin Dashboard; *Intermediate HTML and CSS completed*, *JavaScript course begun*; How This Course Will Work, A Quick Review
 - ...
-- **2025-03-05:** *Intermediate HTML and CSS projected completion date*
+- **2025-03-05:** ~~*Intermediate HTML and CSS projected completion date*~~ Already done!
 - ...
 - **2025-05-23:** *JavaScript projected completion date*
 - ...
+- **June 11, 2025:** *Advanced HTML and CSS projected completion date*
