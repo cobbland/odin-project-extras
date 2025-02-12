@@ -20,3 +20,5 @@ A list of things shown in lesson readings that I don't quite grasp yet.
     - https://www.w3schools.com/react/react_es6_spread.asp
 - [ ] The Cascade (somehow still having trouble with this)
     - https://css-tricks.com/specifics-on-css-specificity/
+- [ ] CSS Grid (close but not all the way there yet)
+- [ ] JavaScript accessor properties, setter and getter functions

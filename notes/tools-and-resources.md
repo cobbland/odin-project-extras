@@ -32,6 +32,7 @@
 - [Font Awesome](https://fontawesome.com/)
 - [Yann Armelin’s SVG path editor](https://yqnn.github.io/svg-path-editor/)
 - [Modern Font Stacks](https://modernfontstacks.com/)
+- [Pictogrammers](https://pictogrammers.com/)
 
 ## Cheatsheets
 
@@ -57,6 +58,7 @@
 - [Can I Use _?](https://caniuse.com/)
 - [httpbin](https://httpbin.org/)
 - [Accessibility testing checklist](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Accessibility/Tooling#accessibility_testing_checklist)
+- https://www.browserstack.com/
 
 ## Version Management
 

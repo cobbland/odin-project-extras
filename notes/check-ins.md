@@ -39,3 +39,15 @@ As the end of my first three weeks of The Odin Project quickly approaches, the e
 **Lows:** Some of the array methods introduced at the end of JavaScript Basics tripped me up. And—somehow—I'm still occasionally tripped up by the cascade and flexbox. But I'll get there.
 
 **Shout-outs:** Shout-out to nicO and xajx for awarding me with my first points, haha.
+
+## Check in #4 - 2025.02.11
+
+Coming up on a month doing The Odin Project—wild!
+
+**Completion Status:** JavaScript 6% (Full Stack JavaScript path)
+
+**Highs:** Finally getting back into JavaScript. After an hour or two of refreshing my memory, I finally feel like I am starting to really understand this stuff.
+
+**Lows:** I thought the forms section of Intermediate HTML & CSS would never end. It wasn't too challenging—just a lot of reading and very boring. (Still glad to have done it, though.)
+
+**Shout-outs:** No particular shout-outs this week, as I haven't interacted with the community much yet. But I'm grateful that it's here.
