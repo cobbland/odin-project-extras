@@ -27,3 +27,10 @@ Player.prototype.getMarker = function() {
 };
 
 Object.setPrototypeOf(Player.prototype, Person.prototype);
+
+
+
+
+const player1 = new Player('Jacob', 'X');
+
+Object.getPrototypeOf(player1);
