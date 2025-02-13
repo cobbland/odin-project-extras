@@ -23,6 +23,8 @@
 - https://webtypography.net/
 - https://www.smashingmagazine.com/
 - https://learnxinyminutes.com/
+- https://wesbos.com/courses
+- https://www.patterns.dev/
 
 ## UI
 

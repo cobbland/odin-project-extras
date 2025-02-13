@@ -22,3 +22,5 @@ A list of things shown in lesson readings that I don't quite grasp yet.
     - https://css-tricks.com/specifics-on-css-specificity/
 - [ ] CSS Grid (close but not all the way there yet)
 - [ ] JavaScript accessor properties, setter and getter functions
+- [ ] Destructuring
+    - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment

@@ -70,6 +70,7 @@ Projected dates of completion (and time in days to complete):
 - **2025-02-10:** Project: Admin Dashboard; *Intermediate HTML and CSS completed*, *JavaScript course begun*; How This Course Will Work, A Quick Review, Organizing Your JavaScript Code Introduction
 - **2025-02-11:** Objects and Object Constructors; Project: Library started
 - **2025-02-12:** Project: Library completed
+- **2025-02-13:** Factory Functions and the Module Pattern, Project: Tic Tac Toe started
 - ...
 - **2025-03-05:** ~~*Intermediate HTML and CSS projected completion date*~~ Already done!
 - ...
