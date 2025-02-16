@@ -73,6 +73,7 @@ Projected dates of completion (and time in days to complete):
 - **2025-02-13:** Factory Functions and the Module Pattern, Project: Tic Tac Toe started
 - **2025-02-14:** Project: Tic Tac Toe continued
 - **2025-02-15:** Project: Tic Tac Toe completed
+- **2025-02-16:** Classes
 - ...
 - **2025-03-05:** ~~*Intermediate HTML and CSS projected completion date*~~ Already done!
 - ...
