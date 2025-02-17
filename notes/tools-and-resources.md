@@ -25,6 +25,8 @@
 - https://learnxinyminutes.com/
 - https://wesbos.com/courses
 - https://www.patterns.dev/
+- https://babeljs.io/
+- https://semver.org/
 
 ## UI
 
@@ -65,3 +67,7 @@
 ## Version Management
 
 - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
+
+## Meetups
+
+- https://www.reddit.com/r/lynchburg/comments/182z1td/itcyber_professional_meetup/

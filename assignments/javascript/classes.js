@@ -1,3 +1,5 @@
+import * as myModules from "./modules.js";
+
 class Animal {
     constructor(name, species) {
         this.name = name;
@@ -22,3 +24,9 @@ class Dog extends Animal {
         console.log(`Come here ${this.species} who's name is ${this.name} and whose breed is ${this.breed}`);
     }
 }
+
+const salutationFunctions = myModules.Salutations();
+
+console.log(myModules.apple);
+console.log(salutationFunctions.greeting());
+console.log(salutationFunctions.farewellString);
