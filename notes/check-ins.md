@@ -51,3 +51,15 @@ Coming up on a month doing The Odin Project—wild!
 **Lows:** I thought the forms section of Intermediate HTML & CSS would never end. It wasn't too challenging—just a lot of reading and very boring. (Still glad to have done it, though.)
 
 **Shout-outs:** No particular shout-outs this week, as I haven't interacted with the community much yet. But I'm grateful that it's here.
+
+## Check in #5 - 2025.02.18
+
+The Odin Project continues to dominate my year.
+
+**Completion Status:** JavaScript 25% (Full Stack JavaScript path)
+
+**Highs:** Finishing the library project. It's an actual working webapp! Sure, you can't save your data—yet. But it's still so cool that I made that.
+
+**Lows:** I still have a bug with my library that I just can't figure out. It displays incorrectly on non-chromium based browsers.
+
+**Shout-outs:** Shout-out to everyone in the [studying](https://discord.com/channels/505093832157691914/911690364103032864) channel. We're doing it!
