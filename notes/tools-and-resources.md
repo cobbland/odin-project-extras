@@ -28,6 +28,17 @@
 - https://babeljs.io/
 - https://semver.org/
 
+## Linters, Formatters, & Validators
+
+- [JSONLint](https://jsonlint.com/)
+- [JSONCompare](https://jsoncompare.com/)
+- [JSON Formatter & Validator](https://jsonformatter.curiousconcept.com/)
+- [ValidateJavaScript](https://validatejavascript.com/)
+
+## Editors
+
+- [Markdown Editor](https://markdowneditor.org/)
+
 ## UI
 
 - [UIverse](https://uiverse.io/)
@@ -71,3 +82,8 @@
 ## Meetups
 
 - https://www.reddit.com/r/lynchburg/comments/182z1td/itcyber_professional_meetup/
+
+## Design
+
+- [penpot](https://penpot.app/)
+- [Colors.to](https://colors.to/)
