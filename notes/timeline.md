@@ -76,7 +76,7 @@ Projected dates of completion (and time in days to complete):
 - **2025-02-16:** Classes
 - **2025-02-17:** ES6 Modules, npm, Webpack, Project: Restaurant Page started
 - **2025-02-18:** Project: Restaurant Page completed
-- **2025-02-19:** Revisiting Webpacks, JSON
+- **2025-02-19:** Revisiting Webpacks, JSON, OOP Principles
 - ...
 - **2025-03-05:** ~~*Intermediate HTML and CSS projected completion date*~~ Already done!
 - ...
