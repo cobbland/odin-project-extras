@@ -27,6 +27,7 @@
 - https://www.patterns.dev/
 - https://babeljs.io/
 - https://semver.org/
+- https://cheats.dhr.wtf/
 
 ## Linters, Formatters, & Validators
 
