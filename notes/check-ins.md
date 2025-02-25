@@ -63,3 +63,15 @@ The Odin Project continues to dominate my year.
 **Lows:** I still have a bug with my library that I just can't figure out. It displays incorrectly on non-chromium based browsers.
 
 **Shout-outs:** Shout-out to everyone in the [studying](https://discord.com/channels/505093832157691914/911690364103032864) channel. We're doing it!
+
+## Check in #6 - 2025.02.25
+
+This was a big week—I took my first day off, haha.
+
+**Completion Status:** JavaScript 37% (Full Stack JavaScript path)
+
+**Highs:** Finally finishing (and then squashing some, but certainly not all, bugs on) the todo list project.
+
+**Lows:** That last todo list project was humbling for me. I learned a lot, but I also realized how much I really don't know.
+
+**Shout-outs:** Shout-out to everyone in the [studying](https://discord.com/channels/505093832157691914/911690364103032864) channel. We're doing it!

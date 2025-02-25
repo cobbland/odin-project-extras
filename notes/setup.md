@@ -7,6 +7,15 @@ The steps to take when setting up a new linux machine (for The Odin Project spec
 - [Set an alias to pull multiple git repos at once](https://dev.to/rmpato/git-pull-multiple-repositories-at-once-4l68) ("multipull")
 - ...
 
+## VS Code
+
+### Extensions
+
+- Code Spell Checker
+- ESLint
+- Prittier - Code for...
+- vscode-pdf
+
 ## Appimage Setup
 
 *Instead of the following, you could also just use [AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher).*

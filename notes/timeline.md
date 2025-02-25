@@ -81,6 +81,8 @@ Projected dates of completion (and time in days to complete):
 - **2025-02-21:** Project: Todo List continued
 - **2025-02-22:** Project: Todo List continued
 - **2025-02-23:** Project: Todo List completed
+- **2025-02-24:** Rest day
+- **2025-02-25:** Linting
 - ...
 - **2025-03-05:** ~~*Intermediate HTML and CSS projected completion date*~~ Already done!
 - ...
