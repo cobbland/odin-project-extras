@@ -63,7 +63,8 @@ Articles and resources to read and reference in the future. Someday. Maybe.
 ## Regular Expressions
 
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions
-- https://regexr.com/
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Regular_expressions
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions/Cheatsheet
 
 ## Startup
 
