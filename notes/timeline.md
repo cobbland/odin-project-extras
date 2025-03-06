@@ -91,6 +91,7 @@ Projected dates of completion (and time in days to complete):
 - **2025-01-03:** Form Validation with JavaScript completed, What is ES6?
 - **2025-01-04:** Asynchronous Code, Working with APIs
 - **2025-01-05:** Async and Await, Project: Weather App started
+- **2025-01-06:** Project: Weather App finished, A Very Brief Intro to CS
 - ...
 - **2025-03-05:** ~~*Intermediate HTML and CSS projected completion date*~~ Already done!
 - ...
