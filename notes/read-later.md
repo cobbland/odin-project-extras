@@ -86,3 +86,8 @@ Articles and resources to read and reference in the future. Someday. Maybe.
 - https://www.amazon.com/Your-Well-Before-Youre-Thirsty/dp/0385485468
 - https://www.amazon.com/Never-Eat-Alone-Expanded-Updated/dp/0385346654
 - https://www.amazon.com/What-Color-Your-Parachute-Meaningful/dp/1984861204
+
+## !!!
+
+- https://www.nand2tetris.org/
+    - https://www.amazon.com/Elements-Computing-Systems-second-Principles-dp-0262539802/dp/0262539802

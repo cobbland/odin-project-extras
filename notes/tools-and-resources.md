@@ -54,6 +54,7 @@
 
 - https://htmlcheatsheet.com/ (also CSS and JS)
 - https://docs.emmet.io/cheat-sheet/
+- https://www.bigocheatsheet.com/
 
 ## Templates and Boilerplates
 
@@ -92,3 +93,7 @@
 ## Regular Expressions
 
 - https://regex101.com/
+
+## Algorithms
+
+- https://github.com/trekhleb/javascript-algorithms
