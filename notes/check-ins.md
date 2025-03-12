@@ -75,3 +75,27 @@ This was a big week—I took my first day off, haha.
 **Lows:** That last todo list project was humbling for me. I learned a lot, but I also realized how much I really don't know.
 
 **Shout-outs:** Shout-out to everyone in the [studying](https://discord.com/channels/505093832157691914/911690364103032864) channel. We're doing it!
+
+## Check in #7 - 2025.03.03
+
+My slowest week so far.
+
+**Completion Status:** JavaScript 44% (Full Stack JavaScript path)
+
+**Highs:** Making some cool-looking dropdown menus. 
+
+**Lows:** Spending way way way too long styling some cool-looking dropdown menus.
+
+**Shout-outs:** Shout-out to my wife for supporting this crazy endeavor.
+
+## Check in #8 - 2025.03.11
+
+Slow but steady progress.
+
+**Completion Status:** JavaScript 62% (Full Stack JavaScript path)
+
+**Highs:** Finishing the weather app project was pretty exciting. 
+
+**Lows:** Looking at some other folks' completed projects made me feel a little discouraged—maybe I should have spent a little longer on mine. (Oh, well. I'm still happy with it.)
+
+**Shout-outs:** Shout-outs to all the high schoolers on here. I'm really impressed with y'all's drive and motivation, of which it must take a lot to do all this extra work.

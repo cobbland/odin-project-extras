@@ -24,3 +24,4 @@ A list of things shown in lesson readings that I don't quite grasp yet.
 - [ ] JavaScript accessor properties, setter and getter functions
 - [ ] Destructuring
     - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment
+- [ ] Data structures mentioned as if I should know them but I don't: Hash and Set

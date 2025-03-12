@@ -97,6 +97,7 @@ Projected dates of completion (and time in days to complete):
 - **2025-03-09:** Project: Recursion completed
 - **2025-03-10:** Rest day
 - **2025-03-11:** Time Complexity, Space Complexity
+- **2025-03-12:** Common Data Structures and Algorithms
 - ...
 - **2025-03-05:** ~~*Intermediate HTML and CSS projected completion date*~~ Already done!
 - ...

@@ -2,6 +2,10 @@
 
 Articles and resources to read and reference in the future. Someday. Maybe. 
 
+## Algorithms & Data Structures
+
+- https://bost.ocks.org/mike/algorithms/
+
 ## Command Line
 
 - https://www.learnenough.com/command-line-tutorial
