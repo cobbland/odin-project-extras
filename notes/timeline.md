@@ -99,6 +99,7 @@ Projected dates of completion (and time in days to complete):
 - **2025-03-11:** Time Complexity, Space Complexity
 - **2025-03-12:** Common Data Structures and Algorithms
 - **2025-03-13:** Project: Linked Lists, HashMap Data Structures started
+- **2025-03-14:** HashMap Data Structures completed, Project: HashMap started
 - ...
 - **2025-03-05:** ~~*Intermediate HTML and CSS projected completion date*~~ Already done!
 - ...
