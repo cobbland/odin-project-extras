@@ -99,3 +99,15 @@ Slow but steady progress.
 **Lows:** Looking at some other folks' completed projects made me feel a little discouraged—maybe I should have spent a little longer on mine. (Oh, well. I'm still happy with it.)
 
 **Shout-outs:** Shout-outs to all the high schoolers on here. I'm really impressed with y'all's drive and motivation, of which it must take a lot to do all this extra work.
+
+## Check in #9 - 2025.03.18
+
+Continuing my slow but steady progress.
+
+**Completion Status:** JavaScript 76% (Full Stack JavaScript path)
+
+**Highs:** I'm really enjoying the computer science lessons. They're challenging in all the right ways.
+
+**Lows:** I still often write pretty messy code—the further along I get in a project, the crazier things look. Maybe I should actually do some refactoring, instead of balancing atop my tower of madness.
+
+**Shout-outs:** None this week. I've had my head down—have hardly even been on the Discord.
