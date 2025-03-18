@@ -103,7 +103,7 @@ Projected dates of completion (and time in days to complete):
 - **2025-03-15:** Project: HashMap completed, Project: Binary Search Trees started
 - **2025-03-16:** Rest day
 - **2025-03-17:** Rest day
-- **2025-03-18:** Project: Binary Search Trees TKTK
+- **2025-03-18:** Project: Binary Search Trees continued
 - ...
 - **2025-03-05:** ~~*Intermediate HTML and CSS projected completion date*~~ Already done!
 - ...
